@@ -16,7 +16,7 @@ The dataset will be updated regularly to include labels (day, night, sunny, rain
 
 The dataset can be downloaded via the provided Torrent files due to the large size of files
 
-"All" includes all recorded drives
+"All" (size: 342.85 GB) includes all recorded drives.
 
-"Test2" includes the drives used in Test2 of this paper:
+"Test2" (size: 90.44 GB) includes the drives used in Test2 of this paper:
 XXXXX
