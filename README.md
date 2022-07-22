@@ -19,4 +19,5 @@ The dataset can be downloaded via the provided Torrent files due to the large si
 "All" (size: 342.85 GB) includes all recorded drives.
 
 "Test2" (size: 90.44 GB) includes the drives used in Test2 of this paper:
+
 F. S. Alsubaei, “Reliability and Security Analysis of Artificial Intelligence-Based Self-Driving Technologies in Saudi Arabia: A Case Study of Openpilot,” Journal of Advanced Transportation, vol. 2022, p. e2085225, Jul. 2022, doi: 10.1155/2022/2085225.
